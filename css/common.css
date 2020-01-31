@@ -1411,7 +1411,10 @@ footer .links a i {
 	}
 	section.event a.button {
 		margin-top: 40px;
-		margin-bottom: 40px;
+		margin-bottom: 0px;
+	}
+	section.event {
+		padding-bottom: 40px;
 	}
 	section.contact .contact_wrap {
 		grid-template-columns:1fr;
